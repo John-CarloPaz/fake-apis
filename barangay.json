@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "barangay": {
+                "id": 1,
+                "name": "agapito del rosario",
+                "city": "angeles city",
+                "province": "pampanga",
+                "coordinates": {
+                    "lat": 15.1442687,
+                    "lng": 120.5896109
+                }
+            }
+        },
+        {
+            "barangay": {
+                "id": 2,
+                "name": "amsic",
+                "city": "angeles city",
+                "province": "pampanga",
+                "coordinates": {
+                    "lat": 15.1556586,
+                    "lng": 120.5709613
+                }
+            }
+        },
+        {
+            "barangay": {
+                "id": 3,
+                "name": "anunas",
+                "city": "angeles city",
+                "province": "pampanga",
+                "coordinates": {
+                    "lat": 15.1556369,
+                    "lng": 120.5536651
+                }
+            }
+        },
+        {
+            "barangay": {
+                "id": 4,
+                "name": "balibago",
+                "city": "angeles city",
+                "province": "pampanga",
+                "coordinates": {
+                    "lat": 15.1663791,
+                    "lng": 120.5909476
+                }
+            }
+        }
+    ],
+    "count": 4
+}
